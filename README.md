@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gh-ibrahim
+- 👋 Hi, I’m Ghada
 - 👀 I’m interested in Data Analytics and its intersection with Management and Business
 - 🌱 I’m currently learning Python and Statistics
 - 💞️ I’m looking to collaborate on Data Manipulation projects
