@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Ghada
-- 👀 I’m interested in Data Analytics and its intersection with Management and Business
+- 👀 I’m interested in AI and Data Analytics and their intersection with Business and Psychology
 - 🌱 I’m currently learning Python and Statistics
 - 💞️ I’m looking to collaborate on Data Manipulation projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I don't like Bananas :D 
 
 <!---
 gh-ibrahim/gh-ibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
