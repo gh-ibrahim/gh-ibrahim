@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and Statistics
 - 💞️ I’m looking to collaborate on Data Manipulation projects
 - 😄 Pronouns: she/her
+- Personal Website: https://ghada-ibrahim-portfolio.vibecode.run
 
 <!---
 gh-ibrahim/gh-ibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
